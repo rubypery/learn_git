@@ -1,2 +1,2 @@
 # learn_git
-lear git
+learn git
